@@ -6,9 +6,9 @@ import Footer from './components/footer';
 function App() {
   return (
     <div className="App">
-     <Header creator={"Aaron Imbrock"}/>
-     {/* <Main />
-     <Footer /> */}
+     <Header />
+     {/* <Main /> */}
+     <Footer author={"Aaron Imbrock"}/>
     </div>
   );
 }

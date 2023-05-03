@@ -2,7 +2,7 @@ import { Component } from "react";
 
 class Header extends Component {
     render() {
-        return <h1>Created with ❤️ by {this.props.creator}</h1>;
+        return <h1>Horned Beasts</h1>;
     }
 }
 
