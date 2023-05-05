@@ -1,14 +1,14 @@
 import './App.css';
-import Header from './components/header';
-import Main from './components/main';
-import Footer from './components/footer';
+import Header from './Components/Header';
+import Main from './Components/Main';
+import Footer from './Components/Footer';
 
 function App() {
   return (
     <div className="App">
-     <Header />
-     {/* <Main /> */}
-     <Footer author={"Aaron Imbrock"}/>
+     <Header title="Horned Beasts"/>
+     <Main />
+     <Footer author="Aaron Imbrock"/>
     </div>
   );
 }
