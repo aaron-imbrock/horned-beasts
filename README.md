@@ -35,7 +35,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Clone the repo
 - `cd` to the repo and run: `npm install`.
 
-In the project directory, you can run:
+From the repo folder on your local machine, you can run:
 
 ### `npm start`
 
@@ -52,4 +52,9 @@ Builds the app for production to the `build` folder.\
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Learn More
+## Deployment
+
+Deployment configuration for GitHub pages was done using steps from [Deploying a React App* to GitHub Pages](https://github.com/gitname/react-gh-pages).
+
+
+
