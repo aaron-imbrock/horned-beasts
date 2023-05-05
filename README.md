@@ -1,9 +1,11 @@
 # Horned Beasts
 
+### [HORNED BEASTS DEMO](https://aaron-imbrock.github.io/horned-beasts/)
+
 An application that displays images and information of horned animals.
 This application will allow you to filter the images by number of horns and chose your favorite image.
 
-Demo: [Horned Beasts](https://aaron-imbrock.github.io/horned-beasts/)
+Deployment code can be found under the [gh-pages branch](https://github.com/aaron-imbrock/horned-beasts/tree/gh-pages).
 
 ## Configuration
 
