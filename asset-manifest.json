@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/horned-beasts/static/css/main.073c9b0a.css",
+    "main.js": "/horned-beasts/static/js/main.ca318762.js",
+    "static/js/787.c6a8d750.chunk.js": "/horned-beasts/static/js/787.c6a8d750.chunk.js",
+    "index.html": "/horned-beasts/index.html",
+    "main.073c9b0a.css.map": "/horned-beasts/static/css/main.073c9b0a.css.map",
+    "main.ca318762.js.map": "/horned-beasts/static/js/main.ca318762.js.map",
+    "787.c6a8d750.chunk.js.map": "/horned-beasts/static/js/787.c6a8d750.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ca318762.js"
+  ]
+}
